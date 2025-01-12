@@ -1,0 +1,19 @@
+body {
+    font-family: 'Press Start 2P', cursive; /* Menggunakan font pixel */
+    background-color: black; /* Latar belakang hitam */
+    color: lime; /* Teks berwarna hijau cerah */
+    text-align: center; /* Teks di tengah */
+}
+
+h1, h2, h3 {
+    text-shadow: 2px 2px 0px rgba(0, 255, 0, 0.5); /* Bayangan teks */
+}
+
+a {
+    color: cyan; /* Tautan berwarna cyan */
+    text-decoration: none; /* Menghilangkan garis bawah */
+}
+
+a:hover {
+    text-decoration: underline; /* Garis bawah saat hover */
+}
